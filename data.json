@@ -1,0 +1,67 @@
+[
+    {
+        "id": 0,
+        "name": "HTML",
+        "score": 90
+    },
+    {
+        "id": 1,
+        "name": "CSS",
+        "score": 90
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "score": 75
+    },
+    {
+        "id": 3,
+        "name": "React",
+        "score": 70
+    },
+    {
+        "id": 4,
+        "name": "Spring",
+        "score": 30
+    },
+    {
+        "id": 5,
+        "name": "Spring-Boot",
+        "score": 45
+    },
+    {
+        "id": 6,
+        "name": "NodeJS",
+        "score": 50
+    },
+    {
+        "id": 7,
+        "name": "SQL",
+        "score": 20
+    },
+    {
+        "id": 8,
+        "name": "Spring-DataJPA",
+        "score": 90
+    },
+    {
+        "id": 9,
+        "name": "Spring-Security",
+        "score": 50
+    },
+    {
+        "id": 10,
+        "name": "Express",
+        "score": 50
+    },
+    {
+        "id": 11,
+        "name": "MySQL",
+        "score": 20
+    },
+    {
+        "id": 12,
+        "name": "TypeScript",
+        "score": 70
+    }
+]
