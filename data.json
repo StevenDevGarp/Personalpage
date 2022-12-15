@@ -56,11 +56,6 @@
     },
     {
         "id": 11,
-        "name": "MySQL",
-        "score": 20
-    },
-    {
-        "id": 12,
         "name": "TypeScript",
         "score": 70
     }
